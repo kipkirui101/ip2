@@ -4,7 +4,7 @@
 ## Description
 {This project is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. }
 ## live links
-https://kipkirui101.github.io/akan-names/
+https://kipkirui101.github.io/ip2/
 ## Setup/Installation Requirements
 * Open Terminal
 * clone the project
